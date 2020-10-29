@@ -1,0 +1,11 @@
+{
+    "body": "{\"content\": \"asdasd\", \"attachment\": \"bye.jpg\"}",
+    "pathParameters": {
+        "id":"08a88e30-1624-11eb-a68e-31c90b6d32c3"
+    },
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "USER-SUB-1234"
+        }
+    }
+}
